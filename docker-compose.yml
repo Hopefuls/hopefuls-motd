@@ -1,0 +1,15 @@
+version: '3'
+services:
+  motd-deployment:
+    # get the environment variables from the .env file
+    env_file:
+      - .env
+    # use the dockerfile in the same folder
+    build: .
+    # set the container name to motd-deployment
+    container_name: motd-deployment
+    # once its done, kill the container
+    restart: "no"
+    # mount the folder ./deployment to /deployment in the container
+    volumes:
+      - ./deployment:/deployment
