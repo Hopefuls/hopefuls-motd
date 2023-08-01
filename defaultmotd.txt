@@ -62,6 +62,7 @@
 | $$  | $$| $$  | $$| $$      | $$_  $$ | $$_____/| $$            
 | $$  | $$|  $$$$$$/|  $$$$$$$| $$ \  $$|  $$$$$$$| $$            
 |__/  |__/ \______/  \_______/|__/  \__/ \_______/|__/            
+Ha, Hopefuls and Docker, get it? ;)
 
 Server containing Docker Containers, running applications @ Hopefuls.de and cringe.dev
 
