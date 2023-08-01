@@ -63,7 +63,7 @@
 | $$  | $$|  $$$$$$/|  $$$$$$$| $$ \  $$|  $$$$$$$| $$            
 |__/  |__/ \______/  \_______/|__/  \__/ \_______/|__/            
 
-Server containing Docker Containers, running applications @ Hopefuls.de
+Server containing Docker Containers, running applications @ Hopefuls.de and cringe.dev
 
 ⇨ https://hopefuls.de
 ⇨ https://cringe.dev
